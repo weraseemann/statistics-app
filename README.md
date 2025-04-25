@@ -1,3 +1,8 @@
+# Deployed version
+The statistics-app is available on https://statistics-app-ivory.vercel.app/
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
